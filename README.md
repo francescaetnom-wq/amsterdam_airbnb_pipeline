@@ -9,9 +9,9 @@ The dataset covers Amsterdam listings as of September 2025 and includes approxim
 
 ## Dashboard
 
-![Page 1](screenshots:s1.png)
-![Page 2](screenshots:s2.png)
-![Page 3](screenshots:s3.png)
+![Page 1](screenshots/s1.png)
+![Page 2](screenshots/s2.png)
+![Page 3](screenshots/s3.png)
 
 ## Tech Stack
 
