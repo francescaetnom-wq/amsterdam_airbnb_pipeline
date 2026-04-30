@@ -9,9 +9,9 @@ The dataset covers Amsterdam listings as of September 2025 and includes approxim
 
 ## Dashboard
 
-![Page 1](screenshots:/s1.png)
-![Page 2](screenshots:/s2.png)
-![Page 3](screenshots:/s3.png)
+![Page 1](screenshots:s1.png)
+![Page 2](screenshots:s2.png)
+![Page 3](screenshots:s3.png)
 
 ## Tech Stack
 
@@ -43,4 +43,4 @@ The calendar dataset contains future availability windows, not historical bookin
 2. Add your Google Cloud service account key as `chiave.json` (excluded from version control)
 3. Install dependencies: `pip install pandas google-cloud-bigquery pyarrow`
 4. Run `clean_airbnb.py`
-5. Open the Power BI file and refresh the BigQuery connection
+5. Dashboard screenshots available in the screenshots folder
