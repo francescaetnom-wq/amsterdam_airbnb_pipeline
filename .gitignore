@@ -1,0 +1,9 @@
+chiave.json
+.venv/
+listings.csv
+calendar.csv
+reviews.csv
+calendar_clean.csv
+listings_clean.csv
+reviews_clean.csv
+.DS_Store
