@@ -43,4 +43,4 @@ The calendar dataset contains future availability windows, not historical bookin
 2. Add your Google Cloud service account key as `chiave.json` (excluded from version control)
 3. Install dependencies: `pip install pandas google-cloud-bigquery pyarrow`
 4. Run `clean_airbnb.py`
-5. Dashboard screenshots available in the screenshots folder
+5. Dashboard screenshots available in the screenshots/ folder
